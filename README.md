@@ -1,4 +1,4 @@
-# UniCare+ Backend
+# UniCare+ 
 
 This repository contains the backend architecture and AI integration
 for **UniCare+**, an accessibility-first healthcare application.
